@@ -4,6 +4,6 @@ core.python*
 env.py
 __pycache__/
 *.py[cod]
-*.sqlite
-*.__pyc
+*.sqlite3
+*.pyc
 __pycache__
